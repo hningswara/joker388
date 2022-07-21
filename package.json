@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "atom-gif-cards:toggle"
   },
-  "repository": "https://github.com/ericadamski/atom-gif-cards",
+  "repository": "https://github.com/hningswara/joker388",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
