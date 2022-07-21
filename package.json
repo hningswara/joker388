@@ -1,8 +1,8 @@
 {
-  "name": "Joker388 Terpercaya",
+  "name": "atom-gif-cards",
   "main": "./lib/atom-gif-cards",
   "version": "0.1.3",
-  "description": "Joker388 Terpercaya",
+  "description": "A short description of your package",
   "keywords": [
     "gifs",
     "gif search",
@@ -25,4 +25,3 @@
   "devDependencies": {
     "prettier": "^1.11.1"
   }
-}
